@@ -11,4 +11,8 @@ val up = new Upper
 
 println(up.upper("Hello", "World"))
 
+val book = "Programming Scala"
+println(book)
+
+
 
